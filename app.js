@@ -1,3 +1,4 @@
+
 alert('welcome to my page')
 var user = prompt('are you male or female?');
     if(user == 'female'){
